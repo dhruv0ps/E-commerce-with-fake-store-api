@@ -1,0 +1,27 @@
+.Igqbk {
+    overflow: hidden;
+}
+
+section {
+    width: min(100%, var(--max-width));
+    margin-inline: auto;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    border: none;
+    background: none;
+    outline: none;
+}
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+body {
+    background: var(--bg-color);
+    overflow-x: hidden;
+    font-family: Poppins, sans-serif;
+}
