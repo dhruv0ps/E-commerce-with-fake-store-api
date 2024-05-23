@@ -15,7 +15,8 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ###Output
-![Uploading Screenshot 2024-05-16 165930.png…]()
+![Screenshot 2024-05-16 165930](https://github.com/dhruv0ps/E-commerce-with-fake-store-api/assets/104724783/8a6e604b-9f14-4392-a061-709cead0418f)
+
 
 ### `npm test`
 
