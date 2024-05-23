@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+![Screenshot 2024-05-16 170016](https://github.com/dhruv0ps/E-commerce-with-fake-store-api/assets/104724783/67ab7d7d-eeb2-4611-bd24-2ed4a44fc983)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -16,7 +16,13 @@ You may also see any lint errors in the console.
 
 ###Output
 ![Screenshot 2024-05-16 165930](https://github.com/dhruv0ps/E-commerce-with-fake-store-api/assets/104724783/8a6e604b-9f14-4392-a061-709cead0418f)
-
+![Screenshot 2024-05-16 165930](https://github.com/dhruv0ps/E-commerce-with-fake-store-api/assets/104724783/1b4401de-5a98-4a2e-98ec-3ce0f571b792)
+![Screenshot 2024-05-16 170026](https://github.com/dhruv0ps/E-commerce-with-fake-store-api/assets/104724783/53eaf204-3577-4868-a5d5-43a58203ebf8)
+![Screenshot 2024-05-16 170042](https://github.com/dhruv0ps/E-commerce-with-fake-store-api/assets/104724783/12b7f849-ffe5-44c4-a4b6-f547594f34df)
+![Screenshot 2024-05-16 170223](https://github.com/dhruv0ps/E-commerce-with-fake-store-api/assets/104724783/0b9024fd-2916-43a4-beb5-058bf2aa53d0)
+![Screenshot 2024-05-16 170234](https://github.com/dhruv0ps/E-commerce-with-fake-store-api/assets/104724783/6fed3355-d191-4afe-8775-101e08e2fd0d)
+![Screenshot 2024-05-16 170339](https://github.com/dhruv0ps/E-commerce-with-fake-store-api/assets/104724783/befe64af-5842-49b0-825e-3e0ce32b6813)
+![Screenshot 2024-05-16 170355](https://github.com/dhruv0ps/E-commerce-with-fake-store-api/assets/104724783/513d93d0-8291-4ef0-936f-2f218036c3b6)
 
 ### `npm test`
 
